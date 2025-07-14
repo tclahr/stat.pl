@@ -1,5 +1,7 @@
 # stat.pl - A Simple Perl Script for File Metadata Extraction
 
+[![GitHub License](https://img.shields.io/github/license/tclahr/stat.pl?color=blue)](https://github.com/tclahr/stat.pl/blob/main/LICENSE)
+
 ## Overview
 
 **`stat.pl`** is a lightweight and efficient Perl script that extracts and displays file statistics in a pipe-delimited format. It is especially useful for system administrators, digital forensics experts, and developers who need a quick way to analyze file metadata such as inode, permissions, ownership, size, and timestamps in Unix-based systems.
