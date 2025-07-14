@@ -39,7 +39,7 @@ stat.pl /usr/bin/*
 
 Each line of output follows this structure:
 
-```
+```text
 0|filename|inode|mode|uid|gid|size|atime|mtime|ctime|0
 ```
 
